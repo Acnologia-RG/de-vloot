@@ -42,7 +42,7 @@
 }
 ul {
     list-style-type: none;
-    margin-top: 130px;
+    margin-top: 164px;
     padding: 0;
     overflow: hidden;
     background-color: rgba(0,0,0,0.0);
@@ -87,17 +87,13 @@ body {
 	font-size: 20px;
 	margin: 0px;
 }
-#vloot1 {
+.left {
 	float: left;
-	margin: 10px;
+	padding: 5px 10px 5px 0px;
 }
-#vloot2 {
+.right {
 	float: right;
-	margin: 10px;
-}
-#vloot3 {
-	float: left;
-	margin: 10px;
+	margin: 5px 0px 5px 10px;
 }
 h2 {
 
